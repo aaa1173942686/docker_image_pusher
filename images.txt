@@ -4,3 +4,4 @@ python:alpine3.19
 nacos/nacos-server
 redis:6.2.6
 mysql:8.0
+minio/minio
