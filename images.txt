@@ -26,4 +26,4 @@ xuxueli/xxl-job-admin:2.4.0
 apache/rocketmq:4.8.0
 elasticsearch:7.3.1
 cucker/get_command_4_run_container
-apacherocketmq/rocketmq-console
+styletang/rocketmq-console-ng
