@@ -29,3 +29,12 @@ cucker/get_command_4_run_container
 styletang/rocketmq-console-ng
 styletang/rocketmq-console-ng:1.0.0
 apache/hive:3.1.3
+zookeeper:3.7.0
+apache/dolphinscheduler:1.3.6
+bitnami/spark:3.1.2
+bde2020/hive:3.1.2
+starrocks/starrocks:3.3.6
+python:3.10
+datax/datax:1.1.0
+bde2020/hadoop:3.2.0
+mysql:5.7
