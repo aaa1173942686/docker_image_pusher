@@ -28,3 +28,4 @@ elasticsearch:7.3.1
 cucker/get_command_4_run_container
 styletang/rocketmq-console-ng
 styletang/rocketmq-console-ng:1.0.0
+apache/hive:3.1.3
